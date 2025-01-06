@@ -1,0 +1,8 @@
+{
+  "/projects/new/page": "app/projects/new/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/[id]/edit/page": "app/projects/[id]/edit/page.js",
+  "/spintax/page": "app/spintax/page.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/api/projects/[id]/route": "app/api/projects/[id]/route.js"
+}
