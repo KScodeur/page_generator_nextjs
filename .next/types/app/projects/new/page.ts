@@ -1,4 +1,4 @@
-// File: C:\Users\KScodeur\Downloads\BIG_DATAMART\page_generator_2\app\projects\new\page.tsx
+// File: C:\Users\KScodeur\Documents\page_generator_nextjs\app\projects\new\page.tsx
 import * as entry from '../../../../../app/projects/new/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: C:\Users\KScodeur\Downloads\BIG_DATAMART\page_generator_2\app\api\projects\route.ts
+// File: C:\Users\KScodeur\Documents\page_generator_nextjs\app\api\projects\route.ts
 import * as entry from '../../../../../app/api/projects/route.js'
 import type { NextRequest } from 'next/server.js'
 
